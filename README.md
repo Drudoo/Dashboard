@@ -1,7 +1,6 @@
 # Dashboard
 
 Simple responsive html dashboard that works on mobile and desktop. 
-
 ![](dashboard.png)
 
 ## Getting started
