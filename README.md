@@ -1,3 +1,7 @@
+[![Dependency Status](https://gemnasium.com/badges/github.com/Drudoo/Dashboard.svg)](https://gemnasium.com/github.com/Drudoo/Dashboard)
+[![Documentation Status](https://readthedocs.org/projects/dashboard-drudoo/badge/?version=latest)](http://dashboard-drudoo.readthedocs.io/en/latest/?badge=latest)
+![](https://reposs.herokuapp.com/?path=Drudoo/Dashboard&style=flat&color=brightgreen)
+[![GitHub version](https://badge.fury.io/gh/Drudoo%2FDashboard.svg)](https://badge.fury.io/gh/Drudoo%2FDashboard)
 # Dashboard
 
 Simple responsive html dashboard that works on mobile and desktop. 
